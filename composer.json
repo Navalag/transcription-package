@@ -1,0 +1,17 @@
+{
+    "name": "navalag/transcriptions",
+    "authors": [
+        {
+            "name": "Andrew Galavan",
+            "email": "a.galavan@icloud.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Navalag\\Transcriptions\\": "src/"
+        }
+    }
+}
